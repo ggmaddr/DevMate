@@ -8,7 +8,7 @@ For developers and enthusiasts, a private tracking system is of great benefit as
 
 Rather than storing bugs on a simple text file, or even a piece of paper, an application that automizes the issue-tracking process would make the development process much smoother. 
 
-## Functions (Java, JavaFX, SQL)
+## Functions (Java, JavaFX, SQL, Window, MacOS, Linux)
 
 ### Add, edit, delete projects
 
