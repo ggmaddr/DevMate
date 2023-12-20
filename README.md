@@ -8,11 +8,14 @@ For developers and enthusiasts, a private tracking system is of great benefit as
 
 Rather than storing bugs on a simple text file, or even a piece of paper, an application that automizes the issue-tracking process would make the development process much smoother. 
 
- 
-
 ## Functions (Java, JavaFX, SQL)
 
-The user will be able to add projects as list items in the system with the following information: 
+### Add, edit, delete projects
+
+![Group 5](https://github.com/ggmaddr/DevMate/assets/102542221/3eaf7783-1b31-4f21-a21b-2e9a01e42a17)
+
+#### Searching projects algorithms
+![Group -4](https://github.com/ggmaddr/DevMate/assets/102542221/111fba30-d2bd-4ac1-9d60-7fd749fd7203)
 
 Project Name - Required 
 
@@ -22,41 +25,15 @@ Defaults to current date but can be modified
 
 Description – Optional 
 
-Each project will be saved and reused for other functionality 
+### Add, edit, delete tickets
+![Group -1](https://github.com/ggmaddr/DevMate/assets/102542221/99865192-1100-4b38-955c-f7e37f2a1fab)
+#### Searching tickets algorithms
+![Group -3](https://github.com/ggmaddr/DevMate/assets/102542221/85f58fb7-2c21-43bc-a66f-f7eb00aaf25d)
 
-Users will be able to enter bugs/issues or changes with the following information 
+### Add, edit, delete comments
+#### Searching comments algorithms
 
-Project Name (Drop down menu listing saved projects) - Required 
 
-Issue/Change Title – Required 
-
-Issue/Change Description – Optional 
-
-Each issue will be saved and reused for other functionality 
-
-Users can add comments to existing tickets 
-
-Description – Required 
-
-Entry Date – System Populated 
-
-Users can search for tickets based on part or all of the ticket or project name 
-
-Users can edit project entries that have been searched 
-
-Users can edit tickets entries that have been searched 
-
-Users can edit ticket comments 
-
-Date Parameter will be automatically updated 
-
-Users can delete tickets 
-
-Users can delete projects 
-
- When entering ticket or project information, users will not be able to proceed until all required fields have been filled out 
-
- 
 
 ## Nonfunctional Requirements 
 
